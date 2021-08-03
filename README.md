@@ -5,7 +5,7 @@ when you run the code you will face this menu:
 ![picture alt](/guides/menu_00000.png)  
   
 if you go through _write a new note_ you'll face this:  
-<img align="left" width="100" height="100" src="/guides/make files_00000.png">
+<img align="left" width="872" height="86" src="/guides/make files_00000.png">
   
 as you can see, you should right your note title  
 and your note content  
