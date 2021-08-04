@@ -1,5 +1,5 @@
 # go-notepad
-## notepad that saves notes and their date on _JSON_ files ##  
+## notepad that saves notes on _JSON_ files ##  
 ### main menu ###  
 when you run the code you will face this menu:  
 ![picture alt](/guides/menu_00000.png)  
